@@ -19,10 +19,7 @@
 
 
 ### 🔭 I’m currently working with code on ...Freelas and Personal Projects
-### 🤖 I'm work on...  My Robot School
 ### 👾 My favorite game is...  Vampyr 
-### 🌱 I’m currently learning ...ReactJs / JavaScript / React Native
-### 👯 I’m looking to collaborate on ...
 ### ⚡ Fun fact: ...I Love Pizzza!!!   <3 
 
 
