@@ -1,6 +1,8 @@
 ### Yo ✌
 
-## Languages that I'm trying code daily
+
+
+# Languages that I'm trying code daily
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -10,17 +12,17 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-## My favorite theme `-´
+# My favorite theme `-´
 
 <code><img height="60" src="https://github.com/Pac-Man-Theme/Pac-Man_Theme/blob/main/images/pac-man-theme-vampyrsoda.png"></code>
 
 
-## Some Facts About me  :D
 
 
-### 🔭 I’m currently working with code on ...Freelas and Personal Projects
-### 👾 My favorite game is...  Vampyr 
-### ⚡ Fun fact: ...I Love Pizzza!!!   <3 
+
+# 🔭 I’m currently working with code on ...Freelas and Personal Projects
+# 👾 My favorite game is...  Vampyr 
+# ⚡ Fun fact: ...I Love Pizzza!!!   <3 
 
 
 ---------
