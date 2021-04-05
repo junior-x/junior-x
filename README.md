@@ -1,6 +1,6 @@
 ### Yo ✌
 
-## Languages and Technologies I use daily
+## Languages that I'm trying code daily
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -11,7 +11,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 
-
+## Some Facts About me  :D
 
 
 ### 🔭 I’m currently working on ...Freelas and Personal Projects
@@ -21,3 +21,6 @@
 
 
 ---------
+
+
+I'm still creating my infos, so that's all so far, sorry   :)
