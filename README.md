@@ -23,9 +23,3 @@
  🔭 I’m currently working with code on ...Freelas and Personal Projects
  👾 My favorite game is...  Vampyr 
  ⚡ Pizzza!!!   <3 
-
-
----------
----------
----------
-
