@@ -17,9 +17,8 @@
 <code><img height="60" src="https://github.com/Pac-Man-Theme/Pac-Man_Theme/blob/main/images/pac-man-theme-vampyrsoda.png"></code>
 
 
-## Bleeding my ears with ->  <code><img height="20" src="https://yt3.ggpht.com/ytc/AAUvwngqScVvvN7KQ_QIROxaGW_m-V9SprSZON2gELxNog=s900-c-k-c0x00ffffff-no-rj"></code>
-
-
  🔭 I’m currently working with code on ...Freelas and Personal Projects
  👾 My favorite game is...  Vampyr 
  ⚡ Pizzza!!!   <3 
+
+## Bleeding my ears with ->  <code><img height="60" src="https://yt3.ggpht.com/ytc/AAUvwngqScVvvN7KQ_QIROxaGW_m-V9SprSZON2gELxNog=s900-c-k-c0x00ffffff-no-rj"></code>
