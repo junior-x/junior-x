@@ -22,10 +22,10 @@
 
  🔭 I’m currently working with code on ...Freelas and Personal Projects
  👾 My favorite game is...  Vampyr 
- ⚡ Fun fact: ...I Love Pizzza!!!   <3 
+ ⚡ Pizzza!!!   <3 
 
 
 ---------
+---------
+---------
 
-
-I'm still creating my infos, so that's all so far, sorry   :)
