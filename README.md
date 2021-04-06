@@ -17,7 +17,7 @@
 <code><img height="60" src="https://github.com/Pac-Man-Theme/Pac-Man_Theme/blob/main/images/pac-man-theme-vampyrsoda.png"></code>
 
 
-## Bleeding my ears with ->  https://www.youtube.com/watch?v=_2BuzT5IMAo&list=PLyIFQr1wryPKU_QHC9NxCf7LuFAQtTLf0&index=3
+## Bleeding my ears with ->  <code><img height="20" src="https://yt3.ggpht.com/ytc/AAUvwngqScVvvN7KQ_QIROxaGW_m-V9SprSZON2gELxNog=s900-c-k-c0x00ffffff-no-rj"></code>
 
 
  🔭 I’m currently working with code on ...Freelas and Personal Projects
