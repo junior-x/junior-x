@@ -18,9 +18,8 @@
 <code><img height="60" src="https://github.com/Pac-Man-Theme/Pac-Man_Theme/blob/main/images/pac-man-theme-vampyrsoda.png"></code>
 
 
- 🔭 I’m currently working with code on ...Freelas and Personal Projects
  👾 My favorite game is...  Vampyr 
- ⚡ Pizzza!!!   <3 
+ 🧛‍ Pizzza!!!   <3 
  
  ---------
 
