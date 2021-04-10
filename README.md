@@ -14,6 +14,3 @@
 
 
  👾 👾 👾
-
-## 🧛‍ Bleeding my ears with ->  <code><img height="60" src="https://yt3.ggpht.com/ytc/AAUvwngqScVvvN7KQ_QIROxaGW_m-V9SprSZON2gELxNog=s900-c-k-c0x00ffffff-no-rj" href="https://www.youtube.com/watch?v=_2BuzT5IMAo"></code>
-https://www.youtube.com/watch?v=_2BuzT5IMAo
