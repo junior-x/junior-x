@@ -14,7 +14,5 @@
 <code><img height="60" src="https://github.com/Pac-Man-Theme/Pac-Man_Theme/blob/main/images/pac-man-theme-vampyrsoda.png"></code>
 
 ---
-
-<code><img height="12" src="/assets/image/yellowball.png"></code> *#JavaScript* <code><img height="12" src="/assets/image/purpleball.png"></code> *#Css* <code><img height="12" src="/assets/image/pinkball.png"></code> *#Sass* <code><img height="12" src="/assets/image/blueball.png"></code> *#TypeScript* <code><img height="12" src="/assets/image/greenball.png"></code> *#Csharp*
-
-![CodeBall](/assets/image/yellowball.svg) #JavaScript ![CodeBall](/assets/image/purpleball.svg) #Css ![CodeBall](/assets/image/pinkball.svg) #Sass ![CodeBall](/assets/image/blueball.svg) #Typescript ![CodeBall](/assets/image/greenball.svg) #Csharp
+![Percentage Bar](/assets/image/perbar.svg)
+![CodeBall](/assets/image/yellowball.svg) #JavaScript ![CodeBall](/assets/image/iceball.svg) #ReactJs/RN  ![CodeBall](/assets/image/purpleball.svg) #Css ![CodeBall](/assets/image/pinkball.svg) #Sass ![CodeBall](/assets/image/blueball.svg) #Typescript ![CodeBall](/assets/image/greenball.svg) #Csharp
