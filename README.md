@@ -16,4 +16,4 @@
 ---
 ![Percentage Bar](/assets/image/perbarL.svg)
 
-![CodeBall](/assets/image/yellowball.svg) *#JavaScript* ![CodeBall](/assets/image/iceball.svg) *#ReactJs/RN*  ![CodeBall](/assets/image/purpleball.svg) *#Css* ![CodeBall](/assets/image/pinkball.svg) *#Sass* ![CodeBall](/assets/image/blueball.svg) *#Typescript* ![CodeBall](/assets/image/greenball.svg) *#Csharp*
+![CodeBall](/assets/image/yellowball.svg) *#JavaScript* <span style="color:grey;"> *21%* </span> ![CodeBall](/assets/image/iceball.svg) *#ReactJs/RN* <span style="color:grey;"> *27%* </span> ![CodeBall](/assets/image/purpleball.svg) *#Css* <span style="color:grey;"> *18%* </span> ![CodeBall](/assets/image/pinkball.svg) *#Sass* <span style="color:grey;"> *12%* </span> ![CodeBall](/assets/image/blueball.svg) *#Typescript* <span style="color:grey;"> *7%* </span> ![CodeBall](/assets/image/greenball.svg) *#Csharp* <span style="color:grey;"> *15%* </span>
