@@ -14,6 +14,6 @@
 <code><img height="60" src="https://github.com/Pac-Man-Theme/Pac-Man_Theme/blob/main/images/pac-man-theme-vampyrsoda.png"></code>
 
 ---
-![Percentage Bar](/assets/image/perbar.svg)
+![Percentage Bar](/assets/image/perbarL.svg)
 
 ![CodeBall](/assets/image/yellowball.svg) *#JavaScript* ![CodeBall](/assets/image/iceball.svg) *#ReactJs/RN*  ![CodeBall](/assets/image/purpleball.svg) *#Css* ![CodeBall](/assets/image/pinkball.svg) *#Sass* ![CodeBall](/assets/image/blueball.svg) *#Typescript* ![CodeBall](/assets/image/greenball.svg) *#Csharp*
