@@ -13,4 +13,4 @@
 
 <code><img height="60" src="https://github.com/Pac-Man-Theme/Pac-Man_Theme/blob/main/images/pac-man-theme-vampyrsoda.png"></code>
 
-<code><img height="12" src="/assets/image/yellowball.png"></code> #JavaScript <code><img height="12" src="/assets/image/purpleball.png"></code> #Css <code><img height="12" src="/assets/image/pinkball.png"></code> #Sass <code><img height="12" src="/assets/image/blueball.png"></code> #TypeScript <code><img height="12" src="/assets/image/greenball.png"></code> #Csharp
+<code><img height="12" src="/assets/image/yellowball.png"></code> *#JavaScript* <code><img height="12" src="/assets/image/purpleball.png"></code> *#Css* <code><img height="12" src="/assets/image/pinkball.png"></code> *#Sass* <code><img height="12" src="/assets/image/blueball.png"></code> *#TypeScript* <code><img height="12" src="/assets/image/greenball.png"></code> *#Csharp*
