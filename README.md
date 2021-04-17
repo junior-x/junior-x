@@ -13,7 +13,7 @@
 
 <code><img height="60" src="https://github.com/Pac-Man-Theme/Pac-Man_Theme/blob/main/images/pac-man-theme-vampyrsoda.png"></code>
 
-`Languages`
+> Languages
 
 ![Percentage Bar](/assets/image/perbarL.svg)
 
