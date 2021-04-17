@@ -16,4 +16,4 @@
 ---
 ![Percentage Bar](/assets/image/perbar.svg)
 
-![CodeBall](/assets/image/yellowball.svg) #JavaScript ![CodeBall](/assets/image/iceball.svg) #ReactJs/RN  ![CodeBall](/assets/image/purpleball.svg) #Css ![CodeBall](/assets/image/pinkball.svg) #Sass ![CodeBall](/assets/image/blueball.svg) #Typescript ![CodeBall](/assets/image/greenball.svg) #Csharp
+![CodeBall](/assets/image/yellowball.svg) *#JavaScript* ![CodeBall](/assets/image/iceball.svg) *#ReactJs/RN*  ![CodeBall](/assets/image/purpleball.svg) *#Css* ![CodeBall](/assets/image/pinkball.svg) *#Sass* ![CodeBall](/assets/image/blueball.svg) *#Typescript* ![CodeBall](/assets/image/greenball.svg) *#Csharp*
