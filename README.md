@@ -13,4 +13,4 @@
 
 <code><img height="60" src="https://github.com/Pac-Man-Theme/Pac-Man_Theme/blob/main/images/pac-man-theme-vampyrsoda.png"></code>
 
-<code><img height="15" src="/assets/image/yellowball.png"></code> #JavaScript
+<code><img height="15" src="/assets/image/yellowball.png"></code> #JavaScript ![Ball](height="15" src="/assets/image/purplewball.png") #Css
