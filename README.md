@@ -17,4 +17,4 @@
 
 <code><img height="12" src="/assets/image/yellowball.png"></code> *#JavaScript* <code><img height="12" src="/assets/image/purpleball.png"></code> *#Css* <code><img height="12" src="/assets/image/pinkball.png"></code> *#Sass* <code><img height="12" src="/assets/image/blueball.png"></code> *#TypeScript* <code><img height="12" src="/assets/image/greenball.png"></code> *#Csharp*
 
-![CodeBall](/assets/image/yellowball.png) #JavaScript ![CodeBall](/assets/image/purpleball.png) #Css ![CodeBall](/assets/image/pinkball.png) #Sass ![CodeBall](/assets/image/blueball.png) #Typescript ![CodeBall](/assets/image/greenball.png) #Csharp
+![CodeBall](/assets/image/yellowball.svg) #JavaScript ![CodeBall](/assets/image/purpleball.svg) #Css ![CodeBall](/assets/image/pinkball.svg) #Sass ![CodeBall](/assets/image/blueball.svg) #Typescript ![CodeBall](/assets/image/greenball.svg) #Csharp
