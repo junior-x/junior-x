@@ -11,4 +11,4 @@
 <code><img height="36" src="https://image.flaticon.com/icons/png/512/490/490580.png"></code>
 <code><img height="36" src="https://lankadevelopers.com/assets/uploads/system/og-image.png"></code>
 <code><img height="36" src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png"></code>
-<code><img height="36" src="https://images.vexels.com/media/users/3/188956/isolated/lists/2bd31dbc4d96db4f5d736267513e75f2-colorful-saturn-planet-stroke.png"></code>
+<code><img height="36" src="https://github.com/vampyrsoda/SaturnClock/blob/main/src/image/icon.png"></code>
