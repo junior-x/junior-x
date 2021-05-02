@@ -5,4 +5,5 @@
 
 ---
 
-<code><img height="45" src="https://github.com/Pac-Man-Theme/Pac-Man_Theme/blob/main/images/pac-man-theme-vampyrsoda.png"></code>
+<code><img height="45" src="https://github.com/Pac-Man-Theme/Pac-Man_Theme/blob/main/images/pac-man-theme-vampyrsoda.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+ <code><img height="20" src="https://yogalayout.com/static/reactnative.4e03ea5d.png"></code>
