@@ -17,3 +17,4 @@
 <code><img height="36" src="https://github.com/vampyrsoda/Jump-Color/blob/main/ico/jumpcolor-ico.png"></code>
 <code><img height="36" src="https://github.com/vampyrsoda/E-mc2/blob/main/src/assets/img/e-mc2-ico.png"></code>
 <code><img height="36" src="https://github.com/vampyrsoda/V-form/blob/main/src/assets/image/v-form.png"></code>
+<code><img height="36" src="https://github.com/vampyrsoda/ByteBank/blob/main/src/assets/images/bytebank-icon.png"></code>
