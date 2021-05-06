@@ -6,13 +6,13 @@
 
 ---
 
-<code><img height="36" src="https://github.com/Pac-Man-Theme/Pac-Man_Theme/blob/main/images/pac-man-theme-vampyrsoda.png"></code> <code><img height="36" src="https://yogalayout.com/static/reactnative.4e03ea5d.png"></code> <code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
- <code><img height="36" src="https://cdn.iconscout.com/icon/free/png-512/sass-2752078-2284895.png"></code>
+<code><img height="36" src="https://github.com/Pac-Man-Theme/Pac-Man_Theme/blob/main/images/pac-man-theme-vampyrsoda.png"></code> <code><img height="36" src="https://github.com/vampyrsoda/vampyrsoda/blob/main/assets/image/icon/react-icon.png"></code> <code><img height="36" src="https://github.com/vampyrsoda/vampyrsoda/blob/main/assets/image/icon/javascript-icon.png"></code>
+ <code><img height="36" src="https://github.com/vampyrsoda/vampyrsoda/blob/main/assets/image/icon/sass-icon.png"></code>
  <code><img height="36" src="https://github.com/vampyrsoda/QuantumSpins/blob/main/src/assets/image/quantumspins.png"></code>
-<code><img height="36" src="https://i.pinimg.com/originals/f2/9d/5a/f29d5ad9234cda3b39a815f9fdffc3f9.png"></code>
-<code><img height="36" src="https://image.flaticon.com/icons/png/512/490/490580.png"></code>
-<code><img height="36" src="https://lankadevelopers.com/assets/uploads/system/og-image.png"></code>
-<code><img height="36" src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png"></code>
+<code><img height="36" src="https://github.com/vampyrsoda/vampyrsoda/blob/main/assets/image/icon/csharp-icon.png"></code>
+<code><img height="36" src="https://github.com/vampyrsoda/vampyrsoda/blob/main/assets/image/icon/css-icon.png"></code>
+<code><img height="36" src="https://github.com/vampyrsoda/vampyrsoda/blob/main/assets/image/icon/html-icon.png"></code>
+<code><img height="36" src="https://github.com/vampyrsoda/vampyrsoda/blob/main/assets/image/icon/flutter-icon.png"></code>
 <code><img height="36" src="https://github.com/vampyrsoda/post-it/blob/main/src/assets/img/postit-icon.png"></code>
 <code><img height="36" src="https://github.com/vampyrsoda/SaturnClock/blob/main/src/image/icon.png"></code>
 <code><img height="36" src="https://github.com/vampyrsoda/Jump-Color/blob/main/ico/jumpcolor-ico.png"></code>
