@@ -8,7 +8,7 @@
 
 <code><img height="36" src="https://github.com/Pac-Man-Theme/Pac-Man_Theme/blob/main/images/pac-man-theme-vampyrsoda.png"></code> <code><img height="36" src="https://github.com/vampyrsoda/vampyrsoda/blob/main/assets/image/icon/react-icon.png"></code> <code><img height="36" src="https://github.com/vampyrsoda/vampyrsoda/blob/main/assets/image/icon/javascript-icon.png"></code>
  <code><img height="36" src="https://github.com/vampyrsoda/vampyrsoda/blob/main/assets/image/icon/sass-icon.png"></code>
- <code><img height="36" src="https://github.com/vampyrsoda/QuantumSpins/blob/main/src/assets/image/quantumspins.png"></code>
+ <!-- <code><img height="36" src="https://github.com/vampyrsoda/QuantumSpins/blob/main/src/assets/image/quantumspins.png"></code>
 <code><img height="36" src="https://github.com/vampyrsoda/vampyrsoda/blob/main/assets/image/icon/csharp-icon.png"></code>
 <code><img height="36" src="https://github.com/vampyrsoda/vampyrsoda/blob/main/assets/image/icon/css-icon.png"></code>
 <code><img height="36" src="https://github.com/vampyrsoda/vampyrsoda/blob/main/assets/image/icon/html-icon.png"></code>
@@ -20,3 +20,4 @@
 <code><img height="36" src="https://github.com/vampyrsoda/V-form/blob/main/src/assets/image/v-form.png"></code>
 <code><img height="36" src="https://github.com/vampyrsoda/ByteBank/blob/main/src/assets/images/bytebank-icon.png"></code>
 <code><img height="36" src="https://github.com/vampyrsoda/PizzaDelivery/blob/main/assets/icon.png"></code>
+-->
