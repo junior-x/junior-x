@@ -7,6 +7,7 @@
 </h1>
 
 <h1 align="center">
+<img height="36"  src="./assets/image/icon/code-icon.svg" />
 <img src="./assets/image/perbarL.svg" />
 </h1>
 
