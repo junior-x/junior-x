@@ -3,10 +3,6 @@
 <!--![Percentage Bar](/assets/image/perbarL.svg)-->
 
 <h1 align="center">
-<img height="36"  src="./assets/image/icon/code-icon.svg" />
-</h1>
-
-<h1 align="center">
 <img height="36"  src="./assets/image/icon/code-icon.svg" /> <br>
 <img src="./assets/image/perbarL.svg" />
 </h1>
