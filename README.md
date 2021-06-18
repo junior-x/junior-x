@@ -1,7 +1,5 @@
  <!-- Saalve veio dar uma bizoiada no meu código néh? :B -->
 
-<!--![Percentage Bar](/assets/image/perbarL.svg)-->
-
 <h1 align="center">
 
  <!--<img height="36"  src="./assets/image/icon/code-icon.svg" /> <br>-->
