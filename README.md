@@ -1,6 +1,6 @@
  <!-- Saalve, sou o junior-x, o proprio.  :) -->
-<div style="height: 150px; align: center; overflow: hidden">
-    <h3>$ <em>sudo apt-get cheese-pizza<em></h3> 
+<div style="height: 150px; grid-row: auto; overflow: hidden">
+    <h9>$ <em>sudo apt-get cheese-pizza<em></h9> 
     <img src="https://i.giphy.com/media/f3Ft7V5eBKX55XDJXC/giphy.webp" width="12%" alt="matrix X">
 </div>
 
