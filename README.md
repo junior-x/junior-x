@@ -1,6 +1,6 @@
  <!-- Saalve, sou o junior-x, o proprio.  :) -->
 <div style="height: 150px; overflow: hidden">
-    <img src="https://i.giphy.com/media/l9o68tABGK6k0/source.gif" alt="matrix X" width="100%">
+    <img src="https://i.giphy.com/media/UvkZpwSnl5EQs0butY/giphy.webp" alt="matrix X" width="100%">
 </div>
 
 <!-- <h1 align="center">
