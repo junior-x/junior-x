@@ -1,5 +1,5 @@
  <!-- Saalve, sou o junior-x, o proprio.  :) -->
-![screen-gif](https://i.giphy.com/media/l9o68tABGK6k0/source.gif)
+<img src="https://i.giphy.com/media/l9o68tABGK6k0/source.gif" alt="matrix X" width="100%">
 
 <!-- <h1 align="center">
 <img src="./assets/image/perbarL.svg" />
