@@ -1,5 +1,5 @@
  <!-- Saalve, sou o junior-x, o proprio.  :) -->
-<img src="https://giphy.com/embed/l9o68tABGK6k0" alt="My Project GIF" width="480" height="240" href="https://giphy.com/gifs/the-matrix-l9o68tABGK6k0>
+![screen-gif](https://giphy.com/embed/l9o68tABGK6k0)
 
 <!-- <h1 align="center">
 <img src="./assets/image/perbarL.svg" />
