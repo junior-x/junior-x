@@ -1,5 +1,5 @@
  <!-- Saalve, sou o junior-x, o proprio.  :) -->
-<div style="height: 150px; grid-auto-rows: auto; overflow: hidden">
+<div style="height: 150px; align-items: center; grid-auto-rows: auto; overflow: hidden">
     <img src="https://i.giphy.com/media/f3Ft7V5eBKX55XDJXC/giphy.webp" width="12%" alt="matrix X">
     <h9>~ $ <em>sudo apt-get cheese-pizza<em></h9> 
 </div>
