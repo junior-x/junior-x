@@ -1,8 +1,7 @@
  <!-- Saalve, sou o junior-x, o proprio.  :) -->
 <div style="height: 150px; grid-row: auto; overflow: hidden">
     <img src="https://i.giphy.com/media/f3Ft7V5eBKX55XDJXC/giphy.webp" width="12%" alt="matrix X">
-    <h3>$ </h3>
-    <h9><em>sudo apt-get cheese-pizza<em></h9> 
+    <h3>$ </h3><h9><em>sudo apt-get cheese-pizza<em></h9> 
 </div>
 
 <!-- <h1 align="center">
