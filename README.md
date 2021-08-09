@@ -1,7 +1,7 @@
- <!-- Saalve, sou o junior-x, o proprio.  :) -->
-<div style="display: grid; grid-row: 1;">
+ <!-- Saalve, sou o junior-x, e noixxx.  :) -->
+<div style="flex-direction: row; justify-content: center;">
     <img src="https://i.giphy.com/media/f3Ft7V5eBKX55XDJXC/giphy.webp" width="12%" alt="matrix X">
-    <h9 style="justify-content: center;">~ $ <em>sudo apt-get cheese-pizza<em></h9> 
+    <h9 >~ $ <em>sudo apt-get cheese-pizza<em></h9> 
 </div>
 
 <!-- <h1 align="center">
