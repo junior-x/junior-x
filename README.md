@@ -1,8 +1,9 @@
  <!-- Saalve, sou o junior-x, e noixxx.  :) -->
 <div style="flex-direction: row; justify-content: center; text-align: justify">
     <img src="https://i.giphy.com/media/f3Ft7V5eBKX55XDJXC/giphy.webp" width="12%" alt="matrix X">
-     <div style="text-align: justify"> ~ $ <em>sudo apt-get cheese-pizza </div>
+     
 </div>
+<div style="text-align: justify"> ~ $ <em>sudo apt-get cheese-pizza </div>
 
 <!-- <h1 align="center">
 <img src="./assets/image/perbarL.svg" />
