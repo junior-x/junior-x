@@ -3,13 +3,14 @@
 <div  style="align: center">
 </div>
 
-<img style="float: left;" src="https://i.giphy.com/media/f3Ft7V5eBKX55XDJXC/giphy.webp" width="12%" alt="matrix X"> 
+<img style="float: left;" src="/assets/image/ezgif.com-gif-maker.webp" width="100%" alt="matrix X"> 
 
+<!-- 
 ```
  ~ $ sudo apt-get cheese-pizza
 ```
 
-<!-- <h1 align="center">
+<h1 align="center">
 <img src="./assets/image/perbarL.svg" />
 </h1>
 
