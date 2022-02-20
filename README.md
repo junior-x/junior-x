@@ -3,7 +3,7 @@
 <div  style="align: center">
 </div>
 
-<img style="float: left;" src="/assets/image/hackintoshx-juniorxxx.webp" width="72%" alt="matrix X"> 
+<img style="float: left;" src="/assets/image/hackintoshx-juniorxxx.webp" width="90%" alt="matrix X"> 
 
 <!-- 
 ```
