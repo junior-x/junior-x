@@ -9,7 +9,7 @@
 
 | | |
 |:-------------------------:|:-------------------------:|
-|<img style="float: left;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=junior-x&theme=dracula" width="100%" alt="matrix X"> | <img style="float: left;" src="/assets/image/hackintoshx-juniorxxx.webp" width="100%" alt="matrix X"> |
+|<img style="float: left;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=junior-x&theme=tokyonight" width="100%" alt="matrix X"> | <img style="float: left;" src="/assets/image/hackintoshx-juniorxxx.webp" width="100%" alt="matrix X"> |
 
 <!--![Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=junior-x&theme=github_dark)-->
 
